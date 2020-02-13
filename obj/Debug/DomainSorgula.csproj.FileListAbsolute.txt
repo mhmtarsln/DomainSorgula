@@ -1,0 +1,22 @@
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\bin\Debug\DomainSorgula.exe.config
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\bin\Debug\DomainSorgula.exe
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\bin\Debug\DomainSorgula.pdb
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.csprojAssemblyReference.cache
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.UI.AddDomainForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.UI.MainForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.Properties.Resources.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.UI.SettingsForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.csproj.GenerateResource.cache
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.exe
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainSorgula.pdb
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\bin\Debug\DomainSorgula.exe.config
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\bin\Debug\DomainSorgula.exe
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\bin\Debug\DomainSorgula.pdb
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.UI.AddDomainForm.resources
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.UI.MainForm.resources
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.Properties.Resources.resources
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.UI.SettingsForm.resources
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.csproj.GenerateResource.cache
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.exe
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.pdb
+D:\Source codes\C# Projeler\DomainSorgula\DomainSorgula\DomainSorgula\obj\Debug\DomainSorgula.csprojAssemblyReference.cache

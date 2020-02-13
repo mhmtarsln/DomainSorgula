@@ -1,0 +1,31 @@
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.exe.config
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.exe
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.pdb
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.Properties.Resources.resources
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.csproj.GenerateResource.cache
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.csproj.CoreCompileInputs.cache
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.exe
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.pdb
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.MultipleThreading.resources
+C:\Users\Alper\source\repos\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.csprojAssemblyReference.cache
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.Properties.Resources.resources
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.csproj.GenerateResource.cache
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.exe
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.pdb
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.exe.config
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.exe
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.pdb
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.UI.AddDomainForm.resources
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.UI.MainForm.resources
+C:\Users\o1912\Desktop\DomainBulucu (1)\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.UI.SettingsForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.UI.AddDomainForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.UI.MainForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.Properties.Resources.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.UI.SettingsForm.resources
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.csproj.GenerateResource.cache
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.exe
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.pdb
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.exe.config
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.exe
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\bin\Debug\DomainBulucu.pdb
+C:\Users\o1912\Desktop\Domain Bulucu\DomainBulucu\DomainBulucu\obj\Debug\DomainBulucu.csprojAssemblyReference.cache
